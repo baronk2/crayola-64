@@ -1,0 +1,69 @@
+97		135	169	107	'a'	asparagus
+98		31		117	254	'b'	blue
+99		255	170	204	'c'	carnation pink
+100	253	219	109	'd'	dandelion
+101	31		206	203	'e'	robin's egg blue
+102	109	174	129	'f'	forest green
+103	28		172	120	'g'	green
+104	188	93		88		'h'	chestnut
+105	93		118	203	'i'	indigo
+106	157	129	186	'j'	purple mountain's majesty
+107	203	65		84		'k'	brick red
+108	252	180	213	'l'	lavender
+109	246	100	175	'm'	magenta
+110	180	103	77		'n'	brown
+111	255	117	56		'o'	orange
+112	255	207	171	'p'	peach
+113	119	221	231	'q'	turquoise blue
+114	238	32		77		'r'	red
+115	252	40		71		's'	scarlet
+116	250	167	108	't'	tan
+117	222	170	136	'u'	tumbleweed
+118	146	110	174	'v'	violet (purple)
+119	205	164	222	'w'	wisteria
+120	255	83		73		'x'	red orange
+121	255	255	0		'y'	yellow
+122	128	218	235	'z'	sky blue
+32		255	255	255	' '	white
+46		0		0		0		'.'	black
+44		149	145	140	','	gray
+63		205	197	194	'?'	silver
+33		231	198	151	'!'	gold
+48		214	138	89		'0'	raw sienna
+49		230	168	215	'1'	orchid
+50		252	137	172	'2'	tickle me pink
+51		219	215	210	'3'	timberwolf
+52		154	206	235	'4'	cornflower
+53		255	174	66		'5'	yellow orange
+54		255	155	170	'6'	salmon
+55		165	105	79		'7'	sepia
+56		239	152	170	'8'	mauvelous
+57		168	228	160	'9'	granny smith apple
+96		253	124	110	'`'	bittersweet
+126	159	226	191	'~'	sea green
+64		176	183	198	'@'	cadet blue
+35		28		169	201	'#'	pacific blue
+36		205	74		76		'$'	mahogany
+37		197	208	230	'%'	periwinkle
+94		255	127	73		'^'	burnt orange
+38		255	189	136	'&'	macaroni and cheese
+42		255	67		164	'*'	wild strawberry
+40		173	255	47		'('	green yellow
+41		173	255	47		')'	green yellow
+45		253	188	180	'-'	melon
+95		13		152	186	'_'	blue green
+43		142	69		133	'+'	plum
+61		186	184	108	'='	olive green
+39		253	217	181	'''	apricot
+34		236	234	190	'"'	spring green
+58		29		172	214	':'	cerulean
+59		234	126	93		';'	burnt sienna
+60		197	227	132	'<'	yellow green
+62		197	227	132	'>'	yellow green
+47		115	102	189	'/'	blue violet
+92		115	102	189	'\'	blue violet
+124	252	217	117	'|'	goldenrod
+91		247	83		148	'['	violet red
+93		247	83		148	']'	violet red
+123	192	68		143	'{'	red violet
+125	192	68		143	'}'	red violet
